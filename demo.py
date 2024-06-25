@@ -1,8 +1,8 @@
 # PRACTICING INPUT
 """
 print("hello")
-name = input("enter name")
-age = input("Enter Age")
+#name = input("enter name")
+#age = input("Enter Age")
 Patient = input("old or new")
 
 print(name)
