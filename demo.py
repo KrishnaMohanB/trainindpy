@@ -1,5 +1,5 @@
 # PRACTICING INPUT
-"""
+
 print("hello")
 #name = input("enter name")
 #age = input("Enter Age")
